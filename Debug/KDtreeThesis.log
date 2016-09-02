@@ -1,0 +1,18 @@
+﻿  kd.cpp
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(141): warning C4101: 'r2': unreferenced local variable
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(141): warning C4101: 'r1': unreferenced local variable
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(299): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(416): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(428): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(467): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(471): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(472): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(557): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\fahad\documents\visual studio 2015\projects\kdtreethesis\kdtreethesis\kd.cpp(557): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  KDtreeThesis.vcxproj -> C:\Users\fahad\documents\visual studio 2015\Projects\KDtreeThesis\Debug\KDtreeThesis.exe
+  KDtreeThesis.vcxproj -> C:\Users\fahad\documents\visual studio 2015\Projects\KDtreeThesis\Debug\KDtreeThesis.pdb (Full PDB)
